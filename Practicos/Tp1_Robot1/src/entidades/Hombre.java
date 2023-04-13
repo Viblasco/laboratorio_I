@@ -4,7 +4,7 @@ package entidades;
 import java.util.Scanner;
 /**
  *
- * @author VIB
+ * @authores Nicolas Araujo,Daniel Becerra y Viviana Blasco 
  */
 
 

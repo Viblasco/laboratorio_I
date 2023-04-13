@@ -3,7 +3,7 @@ package entidades;
 
 /**
  *
- * @authores Niacolas Araujo,Daniel Becerra y Viviana Blasco 
+ * @authores Nicolas Araujo,Daniel Becerra y Viviana Blasco 
  */
 public class Robot {
 

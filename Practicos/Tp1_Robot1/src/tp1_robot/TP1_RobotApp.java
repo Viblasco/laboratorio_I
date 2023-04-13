@@ -6,7 +6,7 @@ import entidades.Robot;
 
 /**
  *
- * @authores Niacolas Araujo,Daniel Becerra y Viviana Blasco 
+ * @authores Nicolas Araujo,Daniel Becerra y Viviana Blasco 
  */
 public class TP1_RobotApp {
 
@@ -19,9 +19,9 @@ public class TP1_RobotApp {
         
         unHombre.jugarConRobot(unRobot);
         
-      
+        Hombre dosHombre = new Hombre();
         
-        
+        dosHombre.jugarConRobot(unRobot);
     }
     
 }
