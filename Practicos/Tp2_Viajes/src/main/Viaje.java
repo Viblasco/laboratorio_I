@@ -1,4 +1,4 @@
-package entidades;
+package main;
 
 public class Viaje {
 
@@ -109,7 +109,8 @@ public class Viaje {
 
     @Override
     public String toString() {
-        return "Viaje{" + "origen=" + origen + ", destino=" + destino + ", distancia=" + distancia + ", vehiculo=" + vehiculo + ", cantidadPeajes=" + cantidadPeajes + '}';
+        return "Viaje:" + "origen:" + origen + ","+ " "
+                + "destino:" + destino + vehiculo + ", cantidadPeajes:" + cantidadPeajes ;
     }
     
 }

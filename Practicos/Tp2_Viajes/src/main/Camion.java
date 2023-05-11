@@ -1,4 +1,4 @@
-package entidades;
+package main;
 
 public class Camion extends Vehiculo {
 

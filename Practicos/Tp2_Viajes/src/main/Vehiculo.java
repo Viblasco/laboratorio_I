@@ -1,4 +1,4 @@
-package entidades;
+package main;
 
 public abstract class Vehiculo {
 
@@ -44,7 +44,7 @@ public abstract class Vehiculo {
 
     @Override
     public String toString() {
-        return "Vehiculo{" + "marca=" + marca + ", patente=" + patente + ", combustible=" + combustible + '}';
+        return " Vehiculo:" + " marca:" + marca + ", patente:" + patente +  combustible ;
     }
     
 

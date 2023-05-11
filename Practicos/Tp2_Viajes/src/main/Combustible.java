@@ -1,4 +1,4 @@
-package entidades;
+package main;
 
 public class Combustible {
 
@@ -31,7 +31,7 @@ public class Combustible {
 
     @Override
     public String toString() {
-        return "Combustible{" + "tipoCombustible=" + tipoCombustible + ", Precio=" + Precio + '}';
+        return " Combustible:" + " tipo " + tipoCombustible + ", Precio:" + Precio ;
     }
     
 }

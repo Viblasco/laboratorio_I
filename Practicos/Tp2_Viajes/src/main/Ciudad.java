@@ -1,4 +1,4 @@
-package entidades;
+package main;
 
 public class Ciudad {
 
@@ -42,7 +42,7 @@ public class Ciudad {
 
     @Override
     public String toString() {
-        return "Ciudad{" + "nombre=" + nombre + ", km=" + km + ", ruta=" + ruta + '}';
+        return " Ciudad: " + nombre + ", km:" + km + ", ruta:" + ruta ;
     }
     
 }
